@@ -4,6 +4,6 @@ Framework agnostic URL routing library.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/40ants/routes.git |
-| commit  | eb35f18                                  |
+| commit  | 50b11ce                                  |
 | systems | 40ants-routes                            |
 |---------+------------------------------------------|
